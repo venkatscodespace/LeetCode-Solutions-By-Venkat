@@ -38,7 +38,7 @@
   
 - **Source Code:**
   
-  ```
+  ```python3
   class Solution:
       def strStr(self, haystack: str, needle: str) -> int:
           if needle.lower() in haystack.lower():
