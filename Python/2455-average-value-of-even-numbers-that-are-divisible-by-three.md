@@ -45,13 +45,3 @@
 -  **Runtime**: 67 ms and 80.71%
 
 - **Memory:**  16.65MB and 81.22%
-  
-  <p align="center">
-  
-    <a href="https://github.com/venkatscodespace/LeetCode-Solutions-By-Venkat">
-  
-      <img src="https://i.imgur.com/YukaYKr.png" alt="Visit My Github Repository for More Solutions">
-  
-    </a>
-  
-  </p>
